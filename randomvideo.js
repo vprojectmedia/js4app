@@ -1,12 +1,12 @@
 var videos = [
-'7ED55ZdhIk4',
-'krAjxTDX9SA',
-'bFPGoI_6qJo',
-'VXgBfzw3M8Y',
-'1tHju5eXAtc',
-'x_yEVJnPv90',
-'miwUYdNAMGA',
-'NVfeMLiE-Ys'
+'59tWxlWbfow',
+'o329cDzm29A',
+'ha7THH7Iqkc',
+'6ZzXIQeymTg',
+'SCBKCAnnqB0',
+'T1GyxWEsWU8&t',
+'7eaAJS-eJFY&t',
+'T1GyxWEsWU8'
 ];
 
 var index=Math.floor(Math.random() * videos.length);
